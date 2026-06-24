@@ -31,7 +31,7 @@ and a print-ready file.
 Selected public projects (under our founder's account):
 
 - [Fastapi-pdfmodule](https://github.com/Whateverdoa/Fastapi-pdfmodule) — PDF dieline analysis &amp; processing service
-- [OGB-1](https://github.com/Whateverdoa/OGB-1) — Shopify admin helper (intake, app proxy, metafields)
+
 
 ### Contact
 
